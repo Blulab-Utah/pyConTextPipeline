@@ -1,0 +1,314 @@
+Comments: ''
+Direction: forward
+Lex: allergy
+Regex: 'allerg(y|ies|ic)'
+Type: ALLERGY
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: Allergies are correct as listed above
+Regex: 'allergies\s+are\s+correct\s+as\s+listed\s+above'
+Type: ALLERGY
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: lockbox
+Regex: ''
+Type: LOCKBOX
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: heritage
+Regex: ''
+Type: HERITAGE
+Code: ''
+---
+Comments: ''
+Direction: forward
+Lex: refuse
+Regex: 'refuse(s|d)?'
+Type: NEGATED
+Code: ''
+---
+Comments: ''
+Direction: forward
+Lex: consider
+Regex: ''
+Type: HYPOTHETICAL
+Code: ''
+---
+Comments: ''
+Direction: forward
+Lex: if will start
+Regex: '\bif\b.*\b(will|start)\b'
+Type: HYPOTHETICAL
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: to be used if
+Regex: 'to\s+be\s+used\s+if'
+Type: HYPOTHETICAL
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: with instructions not to start unless
+Regex: 'with.*not\s+to.*unless'
+Type: HYPOTHETICAL
+Code: ''
+---
+Comments: ''
+Direction: forward
+Lex: standing rx for
+Regex: 'standing\s+rx\s+for'
+Type: HYPOTHETICAL
+Code: ''
+---
+Comments: ''
+Direction: forward
+Lex: old
+Regex: '(?<!year\s)(?<!years\s)(?<!year-)(?<!years-)\bold\b(?!.*?pcp|.*?doctor|.*?physician|.*?provider)'
+Type: LEFTOVER
+Code: ''
+---
+Comments: ''
+Direction: bidirectional
+Lex: leftover
+Regex: 'left(\s|-)?over'
+Type: LEFTOVER
+Code: ''
+---
+Comments: ''
+Direction: forward
+Lex: non-va
+Regex: ''
+Type: NON-VA
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: active
+Regex: '\s{2,}active(\s\([A-Z]\))?'
+Type: MEDLIST-CURRENT
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: expired
+Regex: '\s{2,}expired(\s\([A-Z]\))?'
+Type: MEDLIST-HISTORICAL
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: discontinued
+Regex: '\s{2,}discontinued(\s\([A-Z]\))?'
+Type: MEDLIST-HISTORICAL
+Code: ''
+---
+Comments: ''
+Direction: forward
+Lex: finished
+Regex: ''
+Type: HISTORICAL
+Code: ''
+---
+Comments: ''
+Direction: forward
+Lex: completed
+Regex: ''
+Type: HISTORICAL
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: years ago
+Regex: 'years\s+ago'
+Type: HISTORICAL
+Code: ''
+---
+Comments: ''
+Direction: forward
+Lex: was on
+Regex: 'was\s+on\b'
+Type: HISTORICAL
+Code: ''
+---
+Comments: ''
+Direction: forward
+Lex: was treated with
+Regex: 'was\s+treated\s+with'
+Type: HISTORICAL
+Code: ''
+---
+Comments: ''
+Direction: forward
+Lex: he stopped the
+Regex: 's?he\s+(stopped|quit)\s+the\b'
+Type: HISTORICAL
+Code: ''
+---
+Comments: ''
+Direction: forward
+Lex: in the past he has used
+Regex: 'in\s+the\s+past\s+s?he(\s+has)?\s+used'
+Type: HISTORICAL
+Code: ''
+---
+Comments: ''
+Direction: forward
+Lex: been treated in past with
+Regex: 'been\s+treated\s+in(\s+the)\s+past\s+with'
+Type: HISTORICAL
+Code: ''
+---
+Comments: ''
+Direction: forward
+Lex: in the past he was on
+Regex: 'in\s+the\s+past\s+s?he\s+was\s+on'
+Type: HISTORICAL
+Code: ''
+---
+Comments: ''
+Direction: forward
+Lex: PAST MEDICAL/SURGICAL HISTORY
+Regex: 'PAST\s+MEDICAL/SURGICAL\s+HISTORY'
+Type: HISTORICAL
+Code: ''
+---
+Comments: ''
+Direction: forward
+Lex: father
+Regex: '\b(father|mother|mom|dad|sister|brother|parent|sibling|grandmother|grandfather)\b'
+Type: NOTPATIENT
+Code: ''
+---
+Comments: ''
+Direction: forward
+Lex: family history
+Regex: 'family\s+history'
+Type: NOTPATIENT
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: tablet
+Regex: '\btab(let)?s?\b'
+Type: RA-ORAL
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: capsule
+Regex: '\bcap(sule)?\b'
+Type: RA-ORAL
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: po
+Regex: '\bp\.?o\.?\b'
+Type: RA-ORAL
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: by mouth
+Regex: 'by\s+mouth'
+Type: RA-ORAL
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: cream
+Regex: ''
+Type: RA-TOP
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: topical
+Regex: '\btop(\b|ically|ical)'
+Type: RA-TOP
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: ointment
+Regex: '\boint(ment)?'
+Type: RA-TOP
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: lotion
+Regex: ''
+Type: RA-TOP
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: IV
+Regex: '\binj(\b|ect(ion)?).*?\bI\.?V\.?(\b|P\.?B\.?\b)'
+Type: RA-IV
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: intravenous
+Regex: ''
+Type: RA-IV
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: IM
+Regex: '\binj(\b|ect(ion)?).*?\bI\.?M\.?\b'
+Type: RA-IM
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: intramuscular
+Regex: ''
+Type: RA-IM
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: inhale
+Regex: '(?<!albuterol\s)(nasal\s+)?inh(l|aler)'
+Type: RA-INH
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: intravaginal
+Regex: ''
+Type: RA-VAG
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: suppository
+Regex: ''
+Type: RA-SUP
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: eye drop
+Regex: 'eye\s+drop'
+Type: RA-EYE
+Code: ''
+---
+Comments: ''
+Direction: backward
+Lex: ear drop
+Regex: 'ear\s+drop'
+Type: RA-EAR
+Code: ''

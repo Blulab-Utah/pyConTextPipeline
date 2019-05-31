@@ -1,0 +1,4 @@
+Section_regex: '(.*)' # '(?:\r\n|\r|\n)Medications reviewed:(.*)(?=^Allergies|$)'
+Section_number: 1
+Primary_regex: '(?:\r\n|\r|\n)([^\r|\n]*?)(ACTIVE|Fill\sDate\:).*?(?:\r\n|\r|\n)'
+Fallback_regex: '(?:\r\n|\r|\n)([^\r|\n]\s*\d\d?\)\s+.*?)(?:\r\n|\r|\n)'

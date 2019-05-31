@@ -1,0 +1,1651 @@
+Comments: ''
+Direction: bidirectional
+Lex: amoxicillin/clavulanate
+Regex: 'amox.{0,15}/clav(ulanate)?'
+Type: amoxicillin/clavulanate
+Code: 19711
+---
+Comments: ''
+Direction: bidirectional
+Lex: augmentin/clavulanate
+Regex: 'augmentin.{0,8}/clav(ulanate)?'
+Type: amoxicillin/clavulanate
+Code: 19711
+---
+Comments: ''
+Direction: bidirectional
+Lex: amoxicillin
+Regex: ''
+Type: amoxicillin
+Code: 723
+---
+Comments: ''
+Direction: bidirectional
+Lex: amoxil
+Regex: ''
+Type: amoxicillin
+Code: 723
+---
+Comments: brand name
+Direction: bidirectional
+Lex: augmentin
+Regex: ''
+Type: amoxicillin/clavulanate
+Code: 19711
+---
+Comments: ''
+Direction: bidirectional
+Lex: clavulanate
+Regex: '\bclav(ulanate)?\b'
+Type: amoxicillin/clavulanate
+Code: 19711
+---
+Comments: brand name
+Direction: bidirectional
+Lex: moxatag
+Regex: ''
+Type: amoxicillin
+Code: 723
+---
+Comments: brand name
+Direction: bidirectional
+Lex: DisperMox
+Regex: ''
+Type: amoxicillin
+Code: 723
+---
+Comments: brand name
+Direction: bidirectional
+Lex: Moxatag
+Regex: ''
+Type: amoxicillin
+Code: 723
+---
+Comments: brand name
+Direction: bidirectional
+Lex: Trimox
+Regex: ''
+Type: amoxicillin
+Code: 723
+---
+Comments: brand name
+Direction: bidirectional
+Lex: Moxilin
+Regex: ''
+Type: amoxicillin
+Code: 723
+---
+Comments: brand name
+Direction: bidirectional
+Lex: Larotid
+Regex: ''
+Type: amoxicillin
+Code: 723
+---
+Comments: brand name
+Direction: bidirectional
+Lex: Biomox
+Regex: ''
+Type: amoxicillin
+Code: 723
+---
+Comments: brand name
+Direction: bidirectional
+Lex: Amoclan
+Regex: ''
+Type: amoxicillin
+Code: 723
+---
+Comments: ''
+Direction: bidirectional
+Lex: mox-clav
+Regex: 'mox(\b\s+|\b-)?clav'
+Type: amoxicillin/clavulanate
+Code: 19711
+---
+Comments: ''
+Direction: bidirectional
+Lex: penicillin
+Regex: ''
+Type: penicillin
+Code: 70618
+---
+Comments: ''
+Direction: bidirectional
+Lex: pen-V
+Regex: '\bpen(\b\s+|\b-)?vk?\b'
+Type: penicillin-v
+Code: 7984
+---
+Comments: brand name
+Direction: bidirectional
+Lex: V-Cil-K
+Regex: '\bv(\b\s+|\b-)?cil(\b\s+|\b-)?k\b'
+Type: penicillin-v
+Code: 7984
+---
+Comments: ''
+Direction: bidirectional
+Lex: penicillin-v-potassium
+Regex: 'penicillin(\b\s+|\b-)?v(\b\s+|\b-)?potassium'
+Type: penicillin-v
+Code: 7984
+---
+Comments: ''
+Direction: bidirectional
+Lex: penicillin-v
+Regex: 'penicillin(\b\s+|\b-)?v\b'
+Type: penicillin-v
+Code: 7984
+---
+Comments: ''
+Direction: bidirectional
+Lex: phenoxymethylpenicillin
+Regex: ''
+Type: penicillin
+Code: 7984
+---
+Comments: brand name
+Direction: bidirectional
+Lex: VCK
+Regex: '\bv\.?c\.?k\.?\b'
+Type: penicillin
+Code: 7984
+---
+Comments: ''
+Direction: bidirectional
+Lex: PCN
+Regex: '\bp\.?c\.?n\.?\b'
+Type: penicillin
+Code: 70618
+---
+Comments: ''
+Direction: bidirectional
+Lex: Truxcillin-VK
+Regex: 'Truxcillin(\b\s+|\b-)?VK\b'
+Type: penicillin-v
+Code: 7984
+---
+Comments: ''
+Direction: bidirectional
+Lex: Tuxcillin
+Regex: ''
+Type: penicillin-v
+Code: 7984
+---
+Comments: ''
+Direction: bidirectional
+Lex: T-PCN
+Regex: '\bt(\b\s+|\b-)?p\.?c\.?n\.?\b'
+Type: penicillin-v
+Code: 7984
+---
+Comments: ''
+Direction: bidirectional
+Lex: Trux-VK
+Regex: '\btrux(\b\s+|\b-)?vk\b'
+Type: penicillin-v
+Code: 7984
+--- 
+Comments: ''
+Direction: bidirectional
+Lex: Trucillin-VK
+Regex: 'trucillin(\b\s+|\b-)?vk'
+Type: penicillin-v
+Code: 7984
+---
+Comments: ''
+Direction: bidirectional
+Lex: levofloxacin
+Regex: ''
+Type: levofloxacin
+Code: 82122
+---
+Comments: brand name
+Direction: bidirectional
+Lex: levaquin
+Regex: ''
+Type: levofloxacin
+Code: 82122
+---
+Comments: ''
+Direction: bidirectional
+Lex: l-flox
+Regex: '\bl(\b\s+|\b-)?flox\b'
+Type: levofloxacin
+Code: 82122
+---
+Comments: ''
+Direction: bidirectional
+Lex: lvq
+Regex: ''
+Type: levofloxacin
+Code: 82122
+---
+Comments: ''
+Direction: bidirectional
+Lex: lvx
+Regex: ''
+Type: levofloxacin
+Code: 82122
+---
+Comments: ''
+Direction: bidirectional
+Lex: lfx
+Regex: ''
+Type: levofloxacin
+Code: 82122
+---
+Comments: ''
+Direction: bidirectional
+Lex: levo-flox
+Regex: 'levo(\b\s+|\b-)?flox'
+Type: levofloxacin
+Code: 82122
+---
+Comments: brand name
+Direction: bidirectional
+Lex: levaq
+Regex: ''
+Type: levofloxacin
+Code: 82122
+---
+Comments: brand name
+Direction: bidirectional
+Lex: levaqun
+Regex: ''
+Type: levofloxacin
+Code: 82122
+---
+Comments: ''
+Direction: bidirectional
+Lex: moxifloxacin
+Regex: '\bmox(i|y)'
+Type: moxifloxacin
+Code: 139462
+---
+Comments: brand name
+Direction: bidirectional
+Lex: avalox
+Regex: ''
+Type: moxifloxacin
+Code: 139462
+---
+Comments: brand name
+Direction: bidirectional
+Lex: avelox
+Regex: ''
+Type: moxifloxacin
+Code: 139462
+---
+Comments: brand name
+Direction: bidirectional
+Lex: vigamox
+Regex: ''
+Type: moxifloxacin
+Code: 139462
+---
+Comments: brand name
+Direction: bidirectional
+Lex: moxeza
+Regex: ''
+Type: moxifloxacin
+Code: 139462
+---
+Comments: brand name
+Direction: bidirectional
+Lex: a-lox
+Regex: '\ba(\b\s+|\b-)?lox\b'
+Type: moxifloxacin
+Code: 139462
+---
+Comments: ''
+Direction: bidirectional
+Lex: mxf
+Regex: ''
+Type: moxifloxacin
+Code: 139462
+---
+Comments: ''
+Direction: bidirectional
+Lex: mrf
+Regex: ''
+Type: moxifloxacin
+Code: 139462
+---
+Comments: ''
+Direction: bidirectional
+Lex: moxyfloxicin
+Regex: ''
+Type: moxifloxacin
+Code: 139462
+---
+Comments: brand name
+Direction: bidirectional
+Lex: vibramycin
+Regex: ''
+Type: doxycycline
+Code: 3640
+---
+Comments: brand name
+Direction: bidirectional
+Lex: morgidox
+Regex: ''
+Type: doxycycline
+Code: 3640
+---
+Comments: brand name
+Direction: bidirectional
+Lex: adoxa
+Regex: ''
+Type: doxycycline
+Code: 3640
+---
+Comments: brand name
+Direction: bidirectional
+Lex: atridox
+Regex: ''
+Type: doxycycline
+Code: 3640
+---
+Comments: brand name
+Direction: bidirectional
+Lex: doryx
+Regex: ''
+Type: doxycycline
+Code: 3640
+---
+Comments: brand name
+Direction: bidirectional
+Lex: monodox
+Regex: ''
+Type: doxycycline
+Code: 3640
+---
+Comments: brand name
+Direction: bidirectional
+Lex: oraxyl
+Regex: ''
+Type: doxycycline
+Code: 3640
+---
+Comments: brand name
+Direction: bidirectional
+Lex: alodo
+Regex: ''
+Type: doxycycline
+Code: 3640
+---
+Comments: brand name
+Direction: bidirectional
+Lex: doxycycline
+Regex: 'doxy(cycline)?'
+Type: doxycycline
+Code: 3640
+---
+Comments: brand name
+Direction: bidirectional
+Lex: erymax
+Regex: ''
+Type: erythromycin
+Code: 4053
+---
+Comments: brand name
+Direction: bidirectional
+Lex: theramycin
+Regex: ''
+Type: erythromycin
+Code: 4053
+---
+Comments: ''
+Direction: bidirectional
+Lex: eet
+Regex: '\beet\b'
+Type: erythromycin
+Code: 4053
+---
+Comments: ''
+Direction: bidirectional
+Lex: e-sulfa
+Regex: '\be(\b\s+|\b-)?sulfa\b'
+Type: erythromycin
+Code: 4053
+---
+Comments: ''
+Direction: bidirectional
+Lex: eriped
+Regex: ''
+Type: erythromycin
+Code: 4053
+---
+Comments: ''
+Direction: bidirectional
+Lex: e-ped
+Regex: '\be(\b\s+|\b-)?ped\b'
+Type: erythromycin
+Code: 4053
+---
+Comments: ''
+Direction: bidirectional
+Lex: ery-max
+Regex: '\bery(\b\s+|\b-)?max\b'
+Type: erythromycin
+Code: 4053
+---
+Comments: ''
+Direction: bidirectional
+Lex: erythromycin
+Regex: ''
+Type: erythromycin
+Code: 4053
+---
+Comments: ''
+Direction: bidirectional
+Lex: ery-ped
+Regex: '\bery(\b\s+|\b-)?ped\b'
+Type: erythromycin
+Code: 4053
+---
+Comments: ''
+Direction: bidirectional
+Lex: mycin e
+Regex: 'mycin(\b\s+|\b-)?\be\b'
+Type: erythromycin
+Code: 4053
+---
+Comments: ''
+Direction: bidirectional
+Lex: e-tab
+Regex: '\be(\b\s+|\b-)?tab'
+Type: erythromycin
+Code: 4053
+---
+Comments: ''
+Direction: bidirectional
+Lex: erygel
+Regex: ''
+Type: erythromycin
+Code: 4053
+---
+Comments: ''
+Direction: bidirectional
+Lex: ery-gel
+Regex: ''
+Type: erythromycin
+Code: 4053
+---
+Comments: ''
+Direction: bidirectional
+Lex: azithromycin
+Regex: ''
+Type: azithromycin
+Code: 18631
+---
+Comments: brand name
+Direction: bidirectional
+Lex: zithromax
+Regex: ''
+Type: azithromycin
+Code: 18631
+---
+Comments: ''
+Direction: bidirectional
+Lex: zithro
+Regex: '\bzithro\b'
+Type: azithromycin
+Code: 18631
+---
+Comments: ''
+Direction: bidirectional
+Lex: zithromycin
+Regex: ''
+Type: azithromycin
+Code: 18631
+---
+Comments: ''
+Direction: bidirectional
+Lex: azm
+Regex: ''
+Type: azithromycin
+Code: 18631
+---
+Comments: brand name
+Direction: bidirectional
+Lex: tri-pack
+Regex: '\btri(\b\s+|\b-)?pa(ck|c|k)'
+Type: azithromycin
+Code: 18631
+---
+Comments: brand name
+Direction: bidirectional
+Lex: z-max
+Regex: '\bz(\b\s+|\b-)?max'
+Type: azithromycin
+Code: 18631
+---
+Comments: brand name
+Direction: bidirectional
+Lex: z-pack
+Regex: '\bz(\b\s+|\b-)?pa(ck|c|k)'
+Type: azithromycin
+Code: 18631
+---
+Comments: brand name
+Direction: bidirectional
+Lex: tri-pack
+Regex: '\btri(\b\s+|\b-)?pa(ck|c|k)'
+Type: azithromycin
+Code: 18631
+--- 
+Comments: brand name
+Direction: bidirectional
+Lex: dalacin
+Regex: ''
+Type: clindamycin
+Code: 2582
+---
+Comments: brand name
+Direction: bidirectional
+Lex: cleocin
+Regex: ''
+Type: clindamycin
+Code: 2582
+---
+Comments: ''
+Direction: bidirectional
+Lex: clind-b
+Regex: '\bclind(\b\s+|\b-)?b\b'
+Type: clindamycin
+Code: 2582
+---
+Comments: ''
+Direction: bidirectional
+Lex: clinda b
+Regex: '\bclinda\b\s+\bb\b'
+Type: clindamycin
+Code: 2582
+---
+Comments: ''
+Direction: bidirectional
+Lex: benzaclin
+Regex: ''
+Type: clindamycin
+Code: 2582
+---
+Comments: ''
+Direction: bidirectional
+Lex: clindacin
+Regex: ''
+Type: clindamycin
+Code: 2582
+---
+Comments: ''
+Direction: bidirectional
+Lex: clinda-p
+Regex: 'clinda(\b\s+|\b-)?p\b'
+Type: clindamycin
+Code: 2582
+---
+Comments: ''
+Direction: bidirectional
+Lex: clyndacin
+Regex: ''
+Type: clindamycin
+Code: 2582
+---
+Comments: ''
+Direction: bidirectional
+Lex: clindacen
+Regex: ''
+Type: clindamycin
+Code: 2582
+---
+Comments: ''
+Direction: bidirectional
+Lex: clynda
+Regex: ''
+Type: clindamycin
+Code: 2582
+---
+Comments: ''
+Direction: bidirectional
+Lex: clind-bez
+Regex: 'clind(\b\s+|\b-)?bez'
+Type: clindamycin
+Code: 2582
+---
+Comments: ''
+Direction: bidirectional
+Lex: clindacin
+Regex: ''
+Type: clindamycin
+Code: 2582
+---
+Comments: ''
+Direction: bidirectional
+Lex: clinda
+Regex: ''
+Type: clindamycin
+Code: 2582
+---
+Comments: ''
+Direction: bidirectional
+Lex: clindamycin
+Regex: ''
+Type: clindamycin
+Code: 2582
+---
+Comments: ''
+Direction: bidirectional
+Lex: clarithromycin
+Regex: ''
+Type: clarithromycin
+Code: 21212
+---
+Comments: brand name
+Direction: bidirectional
+Lex: biaxin
+Regex: ''
+Type: clarithromycin
+Code: 21212
+---
+Comments: brand name
+Direction: bidirectional
+Lex: biclar
+Regex: ''
+Type: clarithromycin
+Code: 21212
+---
+Comments: brand name
+Direction: bidirectional
+Lex: bixn
+Regex: ''
+Type: clarithromycin
+Code: 21212
+---
+Comments: brand name
+Direction: bidirectional
+Lex: bioxin
+Regex: ''
+Type: clarithromycin
+Code: 21212
+---
+Comments: ''
+Direction: bidirectional
+Lex: clr
+Regex: ''
+Type: clarithromycin
+Code: 21212
+---
+Comments: ''
+Direction: bidirectional
+Lex: c-rithro
+Regex: '\bc(\b\s+|\b-)?rithro'
+Type: clarithromycin
+Code: 21212
+---
+Comments: brand name
+Direction: bidirectional
+Lex: biclear
+Regex: ''
+Type: clarithromycin
+Code: 21212
+---
+Comments: ''
+Direction: bidirectional
+Lex: linezolid
+Regex: ''
+Type: linezolid
+Code: 190376
+---
+Comments: ''
+Direction: bidirectional
+Lex: lzd
+Regex: ''
+Type: linezolid
+Code: 190376
+---
+Comments: ''
+Direction: bidirectional
+Lex: linzolid
+Regex: ''
+Type: linezolid
+Code: 190376
+---
+Comments: brand name
+Direction: bidirectional
+Lex: zyvox
+Regex: ''
+Type: linezolid
+Code: 190376
+---
+Comments: brand name
+Direction: bidirectional
+Lex: z-vox
+Regex: '\bz(\b\s+|\b-)?vox'
+Type: linezolid
+Code: 190376
+---
+Comments: ''
+Direction: bidirectional
+Lex: z-line
+Regex: '\bz(\b\s+|\b-)?line'
+Type: linezolid
+Code: 190376
+---
+Comments: brand name
+Direction: bidirectional
+Lex: zyox
+Regex: ''
+Type: linezolid
+Code: 190376
+---
+Comments: ''
+Direction: bidirectional
+Lex: metronidazole
+Regex: ''
+Type: metronidazole
+Code: 6922
+---
+Comments: ''
+Direction: bidirectional
+Lex: metrozole
+Regex: ''
+Type: metronidazole
+Code: 6922
+---
+Comments: ''
+Direction: bidirectional
+Lex: metron
+Regex: ''
+Type: metronidazole
+Code: 6922
+---
+Comments: ''
+Direction: bidirectional
+Lex: mzole
+Regex: ''
+Type: metronidazole
+Code: 6922
+---
+Comments: ''
+Direction: bidirectional
+Lex: mtz
+Regex: ''
+Type: metronidazole
+Code: 6922
+---
+Comments: ''
+Direction: bidirectional
+Lex: metrozle
+Regex: ''
+Type: metronidazole
+Code: 6922
+---
+Comments: brand name
+Direction: bidirectional
+Lex: flagyl
+Regex: 'flagy?l'
+Type: metronidazole
+Code: 6922
+---
+Comments: ''
+Direction: bidirectional
+Lex: metrozle
+Regex: ''
+Type: metronidazole
+Code: 6922
+---
+Comments: brand name
+Direction: bidirectional
+Lex: sumycin
+Regex: ''
+Type: tetracycline
+Code: 10395
+---
+Comments: brand name
+Direction: bidirectional
+Lex: sumicin
+Regex: ''
+Type: tetracycline
+Code: 10395
+---
+Comments: brand name
+Direction: bidirectional
+Lex: sumycyn
+Regex: ''
+Type: tetracycline
+Code: 10395
+---
+Comments: ''
+Direction: bidirectional
+Lex: tetracycline
+Regex: ''
+Type: tetracycline
+Code: 10395
+---
+Comments: ''
+Direction: bidirectional
+Lex: tetra
+Regex: ''
+Type: tetracycline
+Code: 10395
+---
+Comments: ''
+Direction: bidirectional
+Lex: TCN
+Regex: '\bt\.?c\.?n\.?\b'
+Type: tetracycline
+Code: 10395
+---
+Comments: ''
+Direction: bidirectional
+Lex: gatifloxacin
+Regex: ''
+Type: gatifloxacin
+Code: 228476
+---
+Comments: brand name
+Direction: bidirectional
+Lex: GAT
+Regex: '\bg\.?a\.?t\.?\b'
+Type: gatifloxacin
+Code: 228476
+---
+Comments: ''
+Direction: bidirectional
+Lex: gatiflox
+Regex: ''
+Type: gatifloxacin
+Code: 228476
+---
+Comments: ''
+Direction: bidirectional
+Lex: gflx
+Regex: ''
+Type: gatifloxacin
+Code: 228476
+---
+Comments: brand name
+Direction: bidirectional
+Lex: tequin
+Regex: ''
+Type: gatifloxacin
+Code: 228476
+---
+Comments: brand name
+Direction: bidirectional
+Lex: t-quin
+Regex: ''
+Type: gatifloxacin
+Code: 228476
+---
+Comments: brand name
+Direction: bidirectional
+Lex: t-quin
+Regex: '\bt(\b\s+|\b-)?quin'
+Type: gatifloxacin
+Code: 228476
+---
+Comments: brand name
+Direction: bidirectional
+Lex: tecuin
+Regex: ''
+Type: gatifloxacin
+Code: 228476
+---
+Comments: brand name
+Direction: bidirectional
+Lex: zmaxid
+Regex: ''
+Type: gatifloxacin
+Code: 228476
+---
+Comments: brand name
+Direction: bidirectional
+Lex: zymax
+Regex: ''
+Type: gatifloxacin
+Code: 228476
+---
+Comments: brand name
+Direction: bidirectional
+Lex: zmx
+Regex: ''
+Type: gatifloxacin
+Code: 228476
+---
+Comments: brand name
+Direction: bidirectional
+Lex: z-max
+Regex: '\bz(\b\s+|\b-)?max\b'
+Type: gatifloxacin
+Code: 228476
+---
+Comments: ''
+Direction: bidirectional
+Lex: ciprofloxacin
+Regex: ''
+Type: ciprofloxacin
+Code: 2551
+---
+Comments: brand name
+Direction: bidirectional
+Lex: cpfxn
+Regex: ''
+Type: ciprofloxacin
+Code: 2551
+---
+Comments: ''
+Direction: bidirectional
+Lex: ciprolaxin
+Regex: ''
+Type: ciprofloxacin
+Code: 2551
+---
+Comments: ''
+Direction: bidirectional
+Lex: ciproflox
+Regex: ''
+Type: ciprofloxacin
+Code: 2551
+---
+Comments: ''
+Direction: bidirectional
+Lex: cipro
+Regex: ''
+Type: ciprofloxacin
+Code: 2551
+---
+Comments: ''
+Direction: bidirectional
+Lex: ciprofloxy
+Regex: ''
+Type: ciprofloxacin
+Code: 2551
+---
+Comments: brand name
+Direction: bidirectional
+Lex: proquin
+Regex: ''
+Type: ciprofloxacin
+Code: 2551
+---
+Comments: brand name
+Direction: bidirectional
+Lex: cipro-pro
+Regex: 'cipro(\b\s+|\b-)?pro'
+Type: ciprofloxacin
+Code: 2551
+---
+Comments: brand name
+Direction: bidirectional
+Lex: pquin
+Regex: ''
+Type: ciprofloxacin
+Code: 2551
+---
+Comments: brand name
+Direction: bidirectional
+Lex: proqun
+Regex: ''
+Type: ciprofloxacin
+Code: 2551
+---
+Comments: brand name
+Direction: bidirectional
+Lex: proqin
+Regex: ''
+Type: ciprofloxacin
+Code: 2551
+---
+Comments: ''
+Direction: bidirectional
+Lex: minocycline
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: ''
+Direction: bidirectional
+Lex: minocicline
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: ''
+Direction: bidirectional
+Lex: m-cycline
+Regex: '\bm(\b\s+|\b-)?cycline'
+Type: minocycline
+Code: 6980
+---
+Comments: ''
+Direction: bidirectional
+Lex: monocycline
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: dynacin
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: minocin
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: ''
+Direction: bidirectional
+Lex: menocn
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: myrac
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: myrc
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: mirac
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: solodyn
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: solodn
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: sldn
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: solodin
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: ximino
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: x-mino
+Regex: '\bx(\b\s+|\b-)?mino'
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: xinin
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: cleeravue-m
+Regex: 'cleer(avue)?(\b\s+|\b-)?\bm\b'
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: vue-m
+Regex: '\bvue(\b\s+|\b-)?\bm\b'
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: cipancin
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: cipa
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: cipancn
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: cipancin
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: brand name
+Direction: bidirectional
+Lex: cepancin
+Regex: ''
+Type: minocycline
+Code: 6980
+---
+Comments: ''
+Direction: bidirectional
+Lex: sulfamethoxazole/trimethoprim
+Regex: 'sulfa.{0,19}/trimeth(oprim)?'
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: ''
+Direction: bidirectional
+Lex: trimethoprim
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: ''
+Direction: bidirectional
+Lex: tmp/smx
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: ''
+Direction: bidirectional
+Lex: smx/tmp
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: ''
+Direction: bidirectional
+Lex: tmp/smz
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: ''
+Direction: bidirectional
+Lex: smz/tmp
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: ''
+Direction: bidirectional
+Lex: tmp
+Regex: '\btmp\b'
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: ''
+Direction: bidirectional
+Lex: tmpsmx
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: ''
+Direction: bidirectional
+Lex: trimethoprim
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: ''
+Direction: bidirectional
+Lex: trimethoprim/sulfamethoxazole
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: ''
+Direction: bidirectional
+Lex: sulfameth
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: ''
+Direction: bidirectional
+Lex: sulfmeth
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: ''
+Direction: bidirectional
+Lex: tmeth
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: ''
+Direction: bidirectional
+Lex: trimeth
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: brand name
+Direction: bidirectional
+Lex: septra
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: brand name
+Direction: bidirectional
+Lex: septrn
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: brand name
+Direction: bidirectional
+Lex: septa
+Regex: 'septa(?!l)'
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: brand name
+Direction: bidirectional
+Lex: bactrim
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: brand name
+Direction: bidirectional
+Lex: bactrem
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: brand name
+Direction: bidirectional
+Lex: bact
+Regex: '\bbact\b'
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: brand name
+Direction: bidirectional
+Lex: sulfatrim
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: brand name
+Direction: bidirectional
+Lex: cotrimoxazole
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: brand name
+Direction: bidirectional
+Lex: ctx
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: ''
+Direction: bidirectional
+Lex: sulfa
+Regex: 'sulfa(?!te|salazine)(\s+drugs?)?'
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: brand name
+Direction: bidirectional
+Lex: ctz
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: brand name
+Direction: bidirectional
+Lex: co-trim
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: brand name
+Direction: bidirectional
+Lex: cotrimox
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: brand name
+Direction: bidirectional
+Lex: cotrimazole
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: brand name
+Direction: bidirectional
+Lex: sulfa-trime
+Regex: 'sulfa(\b\s+|\b-)?trime'
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: brand name
+Direction: bidirectional
+Lex: sulfatrem
+Regex: ''
+Type: sulfamethoxazole/trimethoprim
+Code: 10831
+---
+Comments: ''
+Direction: bidirectional
+Lex: cefpodoxime
+Regex: ''
+Type: cefpodoxime
+Code: 20489
+---
+Comments: brand name
+Direction: bidirectional
+Lex: vantin
+Regex: ''
+Type: cefpodoxime
+Code: 20489
+---
+Comments: ''
+Direction: bidirectional
+Lex: cef-v 
+Regex: '\bcef(\b\s+|\b-)?v\b'
+Type: cefpodoxime
+Code: 20489
+---
+Comments: ''
+Direction: bidirectional
+Lex: cefpod
+Regex: ''
+Type: cefpodoxime
+Code: 20489
+---
+Comments: ''
+Direction: bidirectional
+Lex: mpdx
+Regex: ''
+Type: cefpodoxime
+Code: 20489
+---
+Comments: ''
+Direction: bidirectional
+Lex: cefprozil
+Regex: ''
+Type: cefprozil
+Code: 19552
+---
+Comments: brand name
+Direction: bidirectional
+Lex: cefzil
+Regex: ''
+Type: cefprozil
+Code: 19552
+---
+Comments: ''
+Direction: bidirectional
+Lex: cefzll
+Regex: ''
+Type: cefprozil
+Code: 19552
+---
+Comments: ''
+Direction: bidirectional
+Lex: czl
+Regex: ''
+Type: cefprozil
+Code: 19552
+---
+Comments: ''
+Direction: bidirectional
+Lex: cefprosl
+Regex: ''
+Type: cefprozil
+Code: 19552
+---
+Comments: ''
+Direction: bidirectional
+Lex: cephzil
+Regex: ''
+Type: cefprozil
+Code: 19552
+---
+Comments: ''
+Direction: bidirectional
+Lex: ceftazidime
+Regex: ''
+Type: ceftazidime
+Code: 2191
+---
+Comments: ''
+Direction: bidirectional
+Lex: cephazidime
+Regex: ''
+Type: ceftazidime
+Code: 2191
+---
+Comments: ''
+Direction: bidirectional
+Lex: ceftaz
+Regex: ''
+Type: ceftazidime
+Code: 2191
+---
+Comments: ''
+Direction: bidirectional
+Lex: cftaz
+Regex: ''
+Type: ceftazidime
+Code: 2191
+---
+Comments: brand name
+Direction: bidirectional
+Lex: fortaz
+Regex: ''
+Type: ceftazidime
+Code: 2191
+---
+Comments: brand name
+Direction: bidirectional
+Lex: tazicef
+Regex: ''
+Type: ceftazidime
+Code: 2191
+---
+Comments: ''
+Direction: bidirectional
+Lex: cephalexin
+Regex: ''
+Type: cephalexin
+Code: 2231
+---
+Comments: ''
+Direction: bidirectional
+Lex: cex
+Regex: '\bcex\b'
+Type: cephalexin
+Code: 2231
+---
+Comments: ''
+Direction: bidirectional
+Lex: cefalexin
+Regex: ''
+Type: cephalexin
+Code: 2231
+---
+Comments: brand name
+Direction: bidirectional
+Lex: bio-cef
+Regex: '\bbio(\b\s+|\b-)?cef\b'
+Type: cephalexin
+Code: 2231
+---
+Comments: brand name
+Direction: bidirectional
+Lex: keflex
+Regex: ''
+Type: cephalexin
+Code: 2231
+---
+Comments: brand name
+Direction: bidirectional
+Lex: kx
+Regex: '\bkx\b'
+Type: cephalexin
+Code: 2231
+---
+Comments: brand name
+Direction: bidirectional
+Lex: keflexin
+Regex: ''
+Type: cephalexin
+Code: 2231
+---
+Comments: brand name
+Direction: bidirectional
+Lex: k-flex
+Regex: '\bk(\b\s+|\b-)?flex\b'
+Type: cephalexin
+Code: 2231
+---
+Comments: brand name
+Direction: bidirectional
+Lex: kflx
+Regex: ''
+Type: cephalexin
+Code: 2231
+---
+Comments: ''
+Direction: bidirectional
+Lex: cefuroxime
+Regex: ''
+Type: cefuroxime
+Code: 2194
+---
+Comments: ''
+Direction: bidirectional
+Lex: cxm
+Regex: ''
+Type: cefuroxime
+Code: 2194
+---
+Comments: ''
+Direction: bidirectional
+Lex: cefurox
+Regex: ''
+Type: cefuroxime
+Code: 2194
+---
+Comments: ''
+Direction: bidirectional
+Lex: cfx
+Regex: ''
+Type: cefuroxime
+Code: 2194
+---
+Comments: ''
+Direction: bidirectional
+Lex: cfurox
+Regex: ''
+Type: cefuroxime
+Code: 2194
+---
+Comments: brand name
+Direction: bidirectional
+Lex: ceftin
+Regex: ''
+Type: cefuroxime
+Code: 2194
+---
+Comments: brand name
+Direction: bidirectional
+Lex: ceftn
+Regex: ''
+Type: cefuroxime
+Code: 2194
+---
+Comments: brand name
+Direction: bidirectional
+Lex: cephtin
+Regex: ''
+Type: cefuroxime
+Code: 2194
+---
+Comments: brand name
+Direction: bidirectional
+Lex: ceftan
+Regex: ''
+Type: cefuroxime
+Code: 2194
+---
+Comments: brand name
+Direction: bidirectional
+Lex: zincef
+Regex: ''
+Type: cefuroxime
+Code: 2194
+---
+Comments: brand name
+Direction: bidirectional
+Lex: zenacef
+Regex: ''
+Type: cefuroxime
+Code: 2194
+---
+Comments: brand name
+Direction: bidirectional
+Lex: zinnacef
+Regex: ''
+Type: cefuroxime
+Code: 2194
+---
+Comments: brand name
+Direction: bidirectional
+Lex: z-cef
+Regex: '\bz(\b\s+|\b-)?cef'
+Type: cefuroxime
+Code: 2194
