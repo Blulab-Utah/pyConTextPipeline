@@ -2,8 +2,8 @@
 
 CLI and pipeline tool for pyConTextNLP (for use on VA VINCI dev servers) - Current domain is antibiotics
 
-Author: garrett.cole@hsc.utah.edu/garrett.cole@va.gov
-Affiliations: University of Utah Division of Epidemilogy/U.S. Department of Veteran's Affairs (SLC HSR&D/IDEAS)
+Author: Garrett Cole, MS
+Affiliations: University of Utah Division of Epidemilogy/University of Utah Dept. of Biomedical Informatics/U.S. Department of Veteran's Affairs (SLC HSR&D/IDEAS)
 License: Apache 2.0
 
 ### Description
