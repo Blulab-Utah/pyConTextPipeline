@@ -1,9 +1,11 @@
-# PyConTextPipeline v1.2.1
+# PyConTextPipeline v1.2.1 (copy of internal VA VINCI repo - possibly outdated) 
 
 CLI and pipeline tool for pyConTextNLP (for use on VA VINCI dev servers) - Current domain is antibiotics
 
 Author: Garrett Cole, MS
+
 Affiliations: University of Utah Division of Epidemilogy/University of Utah Dept. of Biomedical Informatics/U.S. Department of Veteran's Affairs (SLC HSR&D/IDEAS)
+
 License: Apache 2.0
 
 ### Description
